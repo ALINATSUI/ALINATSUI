@@ -5,8 +5,7 @@ I'm an IT professional building hands on expertise on data visualization, Python
 # Hi, I'm Alina! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinatsui/)
-[![Resume](https://img.shields.io/badge/Resume%20(PDF)-DC3545?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]
-(./assets/Alina_Tsui_Data_Analyst.pdf])
+[![Resume](https://img.shields.io/badge/Resume%20(PDF)-DC3545?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)(./assets/Alina_Tsui_Data_Analyst.pdf)
 
 
 ## 🛠 Skills
